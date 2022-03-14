@@ -1,0 +1,194 @@
+<html>
+    <head>
+       <title>Top 10 Favorites</title>
+        <h1>My Top 10 Favorites</h1>
+       <style>
+    #wrapper {
+    width: 2030px;
+    height: 910px;
+    border: 2px solid grey;    
+    margin: 0 auto;
+    background-color:darkgrey;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#box-one{
+    width: 400px;
+    height: 450px;
+    border: 3px solid black;
+    background-color: cornflowerblue;
+    font-size: 13px;
+    float: right
+}
+#box-two{
+    width: 400px;
+    height: 450px;
+    border: 3px solid black;
+    background-color: azure;
+    font-size: 13px;  
+    float: right;
+}
+
+#box-three{
+    width:400px;
+    height:450px;
+    border:3px solid black;
+    font-size: 13px;
+    float: right;
+    background-color:beige 
+}
+#box-four{
+    width:400px;
+    height:450px;
+    border:3px solid white;
+    font-size: 13px;
+    float: right;
+    background-color:blanchedalmond;
+}
+#box-five{
+    width:400px;
+    height:450px;
+    border:3px solid white;
+    font-size: 13px;
+    float: right;  
+    background-color:cadetblue;
+}
+#box-six{
+    width:400px;
+    height:450px;
+    border:3px solid white;
+    font-size: 13px;
+    float: right;  
+    background-color:olive;
+}
+#box-seven{
+     width:400px;
+    height:450px;
+    border:3px solid white;
+    font-size: 13px;
+    float: right;  
+    background-color:thistle;
+
+}
+#box-eight{
+    width:400px;
+    height:450px;
+    border:3px solid white;
+    font-size: 13px;
+    float: right;  
+    background-color:gainsboro;
+   
+}
+#box-nine{
+     width:400px;
+    height:450px;
+    border:3px solid white;
+    font-size: 13px;
+    float: right;  
+    background-color:sandybrown;
+}
+#box-ten{
+     width:400px;
+    height:450px;
+    border:3px solid white;
+    font-size: 13px;
+    float: right;  
+    background-color:lavenderblush;
+}               
+</style>
+        
+        
+        
+    </head>
+    <body>
+    <div id="wrapper">
+           
+       <div id="box-one"v>
+           <h1>Top 5</h1>
+           <img src="5.jpg"
+                width=400px
+                height=200px
+                align=auto>
+             <h2>One Piece</h2>
+               <p>Gintama is a story of a handyman named Gintoki, a samurai with no respect for rules set by the invaders, who's ready to take any job to survive. He and his gang, however, are also among the very few who have not forgotten the morale of a swordsman. Wherever they go, all they do is to create troubles.</p>
+            
+                
+                
+        </div>
+       <div id="box-two">
+            <h1>Top 4</h1>
+            <img src="4.png"
+                 width=400
+                 height=200>
+            <h2>Black Clover</h2>
+            <p>The story follows Asta, a young boy born without any magic power. This is unknown to the world he lives in because seemingly everyone has some sort of magic power.</p>
+        </div>
+        
+        <div id="box-three">
+            <h1>Top 3</h1>
+            <img src="3.jpg"
+                 width=400
+                 height=200>
+           <h2>Hunter X Hunter</h2>
+                <p>A Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father   disappeared long ago, being a Hunter.</p>
+        </div>
+         
+       <div id="box-four">
+           <h1>Top 2</h1>
+           <img src="2.jpg"
+                 width=400
+                 height=200>
+                 <h2><b>Naruto</b></h2>
+                 <p>Naruto (Japanese: NARUTO ナルト ) is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.</p>
+       </div>
+        
+       <div id="box-five">
+           <h1><b>Top 1</b></h1>
+           <img src="1.jpg"
+                width=400px
+                height=200px>
+                <h2>One Piece</h2>
+                <P>Follows the adventures of Monkey D. Luffy and his pirate crew in order to find the greatest treasure ever left by the legendary Pirate, Gold Roger. The famous mystery treasure named "One Piece".</P>
+        </div>
+        
+       <div id="box-six">
+           <h1>Top 10</h1>
+           <img src="6.jpg"
+                 width=400
+                 height=200>
+            <h2>Dragon Ball Z</h2>
+            <p>The epic episodic adventure of Goku and the Z Warriors as they defend the Earth and the Universe from super-powered fighters and monsters. The series is a continuation of the original Dragon Ball, but focuses more on the intense, multi-episode battles that the Z Warriors fight with their foes.</p>
+       </div>
+       <div id="box-seven">
+           <h1>Top 9</h1>
+           <img src="7.webp"
+                 width=400
+                 height=200>
+            <h2>The Daily Life Of The Immortal King</h2>
+            <p>Wang Ling is a near-invincible existence with powers far beyond his control. But now that he's sixteen, he faces his greatest battle yet - Senior High School. Wang Ling is a near-invincible existence with powers far beyond his control.</p>
+       </div>
+       <div id="box-eight">
+           <h1>Top 8</h1>
+           <img src="8.jpg"
+                 width=400
+                 height=200>
+            <h2>Doraemon</h2>
+            <p>Doraemon: A cat-like robot of the 22nd century. Doraemon came to the present age to help Nobita. Doraemon has a four-dimensional pocket which holds a lot of gadgets. He loves Japanese traditional sweet Dorayaki (also called Bean Jam Buns) and suffers from musophobia (fear of mice).</p>
+        </div>
+       <div id="box-nine"v>
+           <h1>Top 7</h1>
+           <img src="9.webp"
+                 width=400
+                 height=200>
+            <h2>Demon Slayer</h2>
+            <p>Demon Slayer: Kimetsu no Yaiba (鬼滅の刃, Kimetsu no Yaiba, "Blade of Demon Destruction") is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows teenage Tanjiro Kamado, who strives to become a demon slayer after his family was slaughtered and his younger sister Nezuko turned into a demon.</p>
+        </div>
+       <div id="box-ten"> 
+           <h1>Top 6</h1>
+           <img src="10.jpg"
+                 width=400
+                 height=200>
+            <h2>Baki The Grappler</h2>
+            <p>The protagonist, Baki Hanma, trains with an intense focus to become strong enough to surpass his father, Yujiro Hanma, the strongest fighter in the world. Five of the world's most violent and brutal death row inmates are gathering to face Baki.</p>
+        </div>
+    
