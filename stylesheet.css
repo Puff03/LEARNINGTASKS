@@ -1,0 +1,16 @@
+*{
+background-image: url(grey.jpg);
+    background-position: center;
+    background-size:auto;
+    font-style: italic;
+    font-size: 130%;
+    color: floralwhite;
+    
+    
+}
+    #wrapper {
+    width: 2030px;
+    height: 910px;
+    border: 1px solid grey;    
+    margin: auto;
+    background-color:blue;
