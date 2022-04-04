@@ -1,0 +1,20 @@
+<html>
+<head>
+    <a href="https://puff1.herokuapp.com/index.php">HOME</a>
+     <link rel="stylesheet" 
+          href="stylesheet4.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap" rel="stylesheet">
+
+    </head>
+    <title>WEB TYPOGRAPHY</title>
+    <body>
+ <div id="wrapper">
+    <h1>"DONT LOOK BACK</h1>
+    <h1 style="font-family: sans-serif">You're</h1>
+    <h1 style="color:white">NOT GOING THAT WAY</h1>
+     <h1 style="color:white">KEEP PUSHING FORWARD"</h1>
+        </div>
+</body>
+</html>
