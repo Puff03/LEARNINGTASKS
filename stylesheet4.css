@@ -1,0 +1,17 @@
+*
+#wrapper {
+    width: 1910px;
+    height: 890px;
+    border: 1px solid grey;
+    background-image: url(Man_riding.avif);
+    background-position: center;
+    background-size:cover;
+    margin-right: auto;
+    background-color:azure;
+    text-align:center;
+    font-size: 300%;
+    font-family: 'Calligraffitti', cursive;
+    color:black;
+    
+    
+}
