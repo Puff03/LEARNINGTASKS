@@ -1,0 +1,16 @@
+*{
+background-image: url(white.png);
+    background-position:center;
+    background-size:cover;
+    color:Black;
+    font-size: 50;
+    
+}
+
+#wrapper {
+    width: 1905px;
+    height: 890px;
+    border: 2px solid grey;    
+    margin: auto;
+    text-align: center;
+}
