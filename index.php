@@ -14,7 +14,7 @@
 </head>
 <body> 
 <div id="wrapper" onclick="togglemenu()">
-     <h1>Hello Welcome to My Website! I am Meco P Tabjan</h1>
+     <h1>Portfolio</h1>
     <div id="sidebar">
         <div class="toggle-btn">
         <span></span>
