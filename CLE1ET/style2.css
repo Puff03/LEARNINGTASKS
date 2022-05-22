@@ -1,6 +1,6 @@
 #wrapper {
     width: 100%;
-    height:1200px;
+    height:900px;
     margin-top: 0 auto;
     background-image: url(images/bg1.jpg);
     background-position: center;
@@ -148,8 +148,8 @@ body{
 }
 #boxA{
     width: 50%;
-    height: 210px;
-    margin:10px;
+    height: 165px;
+    margin:5px;
     margin-left: 500;
     overflow: hidden;
     float:left;
@@ -182,6 +182,7 @@ body{
     float: right;
     text-align: center;
     overflow: hidden;
+    background-color: darkgray;
 }
 #view a{
     color:black;
@@ -191,5 +192,5 @@ body{
     text-decoration: none;
     padding: 5px 5px;
     background-color: white;
-    border-radius: 20px; 
+    border-radius: 20px;
 }
