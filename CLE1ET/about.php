@@ -1,10 +1,7 @@
 <link rel="stylesheet" href="style2.css">
-
-<script><?php include('index.php'); ?></script>
-
 <script text="text/javascript" src="script.js">     
 </script>
-<body>s
+<body>
 <div id="wrapper">
     <h2 style="text-align:center">Profile</h2>
 <div class="card">
@@ -15,9 +12,11 @@
     <button onclick="myFunction()">Know More About Me</button>
 </div>  
         <div id="aboutMe">
+        <h3>studying bachelor of science in information technology</h3>
         <h3>I live in Cityheights subd. Barangay Taculing</h3>
         <h3>I love playing skateboard</h3>
-        <h3></h3>
+        
 </div>
 </div>
+    <script><?php include('index.php'); ?></script>
     </body>
